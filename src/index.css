@@ -1,0 +1,49 @@
+body{
+  margin: 0;
+}
+
+/* HEADER */
+.journal-header{
+background-color: #F55A5A;
+color: #FFFFFF;
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 20px;
+font-size: 1rem;
+gap: 0.8em;
+}
+
+.globe-logo{
+  width: 50px;
+}
+
+/*CARD*/
+.main-container{
+  padding-top: 4em;
+  max-width: 80%;
+  display: flex;
+  flex-direction: column;
+  justify-self: center;
+}
+
+.card-container{
+  display: flex;
+  align-items: center;
+  padding-bottom: 2em;
+}
+
+.location-img-container{
+padding: 0.5em;
+}
+
+.location-img{
+  border-radius: 5px;
+  height: 260px;
+  width: 180px;
+}
+
+.info-container{
+  max-width: 500px;
+  padding-left: 1em;
+}
