@@ -1,10 +1,12 @@
 body{
   margin: 0;
+  font-family: "Hind", serif;
 }
 
 /* HEADER */
 .journal-header{
-background-color: #F55A5A;
+background-color: #004E43;
+font-family: "Montserrat", serif;
 color: #FFFFFF;
 display: flex;
 justify-content: center;
@@ -46,4 +48,19 @@ padding: 0.5em;
 .info-container{
   max-width: 500px;
   padding-left: 1em;
+}
+
+.location-icon{
+  height: 20px;
+  padding-right: 0.3em;
+}
+.country {
+  font-size: 1rem;
+  letter-spacing: 0.1rem;
+  padding-right: 1em;
+
+}
+
+h2 {
+  font-family: "Montserrat", serif;
 }
