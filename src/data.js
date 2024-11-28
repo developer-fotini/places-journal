@@ -4,7 +4,7 @@ export default [
         location: "SPAIN",
         googleMapsUrl: "https://maps.app.goo.gl/EXXo8456tad18mT19",
         description: "Seville is the capital and largest city of the Spanish autonomous community of Andalusia and the province of Seville. Its old town, with an area of 4 square kilometres (2 sq mi), contains a UNESCO World Heritage Site comprising three buildings: the Alcázar palace complex, the Cathedral and the General Archive of the Indies (source: Wikipedia).",
-        imageUrl: "https://images.unsplash.com/photo-1569296085393-7bfb185e3c09?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        imageUrl: "https://images.unsplash.com/photo-1661442196391-ea6398cc52ed?q=80&w=1888&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
 
     {
