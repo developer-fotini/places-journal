@@ -1,4 +1,4 @@
-import globeImg from '/src/assets/globe.png'
+import globeImg from '/assets/globe.png'
 export default function Header() {
     return (
         <header className="journal-header">
