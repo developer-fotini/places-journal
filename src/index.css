@@ -86,6 +86,7 @@ h2 {
 @media (max-width: 799px) {
   .main-container {
     padding-top: 0;
+    padding-left: 0.4rem;
   }
   .card-container {
     flex-direction: column;
