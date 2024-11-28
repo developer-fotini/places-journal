@@ -84,18 +84,22 @@ h2 {
 }
 
 @media (max-width: 799px) {
+  .main-container {
+    padding-top: 0;
+  }
   .card-container {
     flex-direction: column;
   }
 
   .location-img-container {
     width: 75vw;
-    padding-bottom: 2em;
-    padding-top: 3em;
+    padding-bottom: 2rem;
+    padding-top: 3rem;
+    padding-left: 0.3rem;
   }
 
   .info-container{
-    margin-bottom: 4em;
+    margin-bottom: 4rem;
   }
 }
   
